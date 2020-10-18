@@ -4,5 +4,5 @@ module.exports = {
         host: "foo@bar.com"
     },
     port: 8080,
-    db: 'mongodb://localhost/designkaf'
+    db: 'mongodb://localhost/sgac'
 }
